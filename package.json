@@ -1,7 +1,8 @@
 {
-  "name": "my-app",
+  "name": "chakra_sandbox",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.1",
     "@chakra-ui/react": "^1.7.3",
@@ -45,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.16.5",
     "@testing-library/react": "^12.1.2"
   }
 }

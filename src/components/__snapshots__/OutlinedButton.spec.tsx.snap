@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OutlinedButton should foo 1`] = `
+<DocumentFragment>
+  <button
+    class="chakra-button css-i7psh6"
+    type="button"
+  >
+    save:1
+  </button>
+</DocumentFragment>
+`;
